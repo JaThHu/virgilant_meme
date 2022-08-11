@@ -26,5 +26,4 @@ namespace HelloWorld
 | player | Ronaldo | Messi |
 | --- | --- | --- |
 | goals | 804 | 759 |
-| --- | --- | --- |
 | age | 37 | 35 | 
