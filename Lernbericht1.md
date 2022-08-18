@@ -1,7 +1,7 @@
-# Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+# Janick Hurschler
 
-## Einleitung
+
+## In meinem Projekt ging es darum, im Fussball einen neuen Trick zu lernen.
 
 ✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
 
