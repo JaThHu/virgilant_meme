@@ -1,15 +1,15 @@
 # Janick Hurschler
 
 
-## In meinem Projekt ging es darum, im Fussball einen neuen Trick zu lernen.
+## In meinem Projekt ging es darum, im Fussball, technisch besser zu werden.
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
 
-## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+## Ich habe z.B. einen neuen effektiven Trick gelernt, den ich auch in einem Fussballspiel anwenden kann.
 
-## Beschreibung
+
+
+## Der Trick, den ich gelernt habe, ist sehr effektiv für die Mittelfeld-Position. Man kann mit ihm sehr schnell einen gegnerischen Spieler ausdribbeln und die Seite z.B. von links nach rechts oder umgekehrt wechseln. Der Name des Trickes lautet "Drag back". Wenn man kreativ ist, kann man ihn in sehr vielen Spielsituationen und in verschiedenen Variationen anwenden. Beim "Drag back" analysiert man zuerst, wo der Gegenspieler steht, danach wird dementsprechend der Ball mit der Sohle zurückgezogen. Nach diesem Schritt stehen dir viele verschiedene Möglichkeiten zur verfügung. 
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
