@@ -10,7 +10,7 @@
 
 
 ## Der Trick, den ich gelernt habe, ist sehr effektiv für die Mittelfeld-Position. Man kann mit ihm sehr schnell einen gegnerischen Spieler ausdribbeln und die Seite z.B. von links nach rechts oder umgekehrt wechseln. Der Name des Trickes lautet "Drag back". Wenn man kreativ ist, kann man ihn in sehr vielen Spielsituationen und in verschiedenen Variationen anwenden. Beim "Drag back" analysiert man zuerst, wo der Gegenspieler steht, danach wird dementsprechend der Ball mit der Sohle zurückgezogen. Nach diesem Schritt stehen dir viele Möglichkeiten zur Verfügung. Also, der Ball befindet sich nun ein kleines Stück vor deinem Standbein. Von da aus kannst du, je nach Situation im Spiel, denn Ball eigentlich in einem Radius von 360° weiterführen. Man kann ihn z.B. mit dem Fuss, mit dem man ihn zurückgezogen hat, wieder nach vorne mitnehmen. Ich persönlich spiele den Ball gerne hinter meinem Standbein durch. So kann ich die Seite, in die ich laufe, sehr schnell ändern und einen guten Pass in die Spitze spielen.
-![image](https://user-images.githubusercontent.com/111045598/185331848-e47f9984-ce07-4ed6-a37d-4018afcffac9.png)
+![image](https://user-images.githubusercontent.com/111045598/185331848-e47f9984-ce07-4ed6-a37d-4018afcffac9.png).gif
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
