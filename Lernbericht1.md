@@ -1,4 +1,4 @@
-# Janick Hurschler
+# Lern-Bericht von Janick Hurschler
 
 
 ## In meinem Projekt ging es darum, im Fussball, technisch besser zu werden.
